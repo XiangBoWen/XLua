@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 4282951640
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: ui/res/register.jpg.ab
+      Dependencies: {}
+    Info_1:
+      Name: ui/res/start_up_01.png.ab
+      Dependencies: {}
