@@ -1,10 +1,15 @@
 ManifestFileVersion: 0
-CRC: 4282951640
+CRC: 3186762583
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
+      Name: ui/prefab/csprefab.prefab.ab
+      Dependencies:
+        Dependency_0: ui/res/register.jpg.ab
+        Dependency_1: ui/res/start_up_01.png.ab
+    Info_1:
       Name: ui/res/register.jpg.ab
       Dependencies: {}
-    Info_1:
+    Info_2:
       Name: ui/res/start_up_01.png.ab
       Dependencies: {}
